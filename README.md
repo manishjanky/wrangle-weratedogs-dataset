@@ -12,7 +12,7 @@ Tasks Carried out as part of the Data wrangling, which consists of:
   1) your data wrangling efforts and 
   2) your data analyses and visualizations
 
-Contents:
+### Contents:
 #### wrangle_report.pdf
 > Data wrangling report
 
