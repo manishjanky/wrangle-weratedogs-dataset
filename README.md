@@ -1,4 +1,4 @@
-# wrangle-weratedogs-datset
+# wrangle-weratedogs-dataset
 A data wrangling project done as part of Udacity DAND.
 
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
